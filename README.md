@@ -4,7 +4,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name Mohamed Shaban and I'm a embedded syetem engineer. I'm from Egypt,  currently study ECE engineering in fyoum unverasity. You can find me   on [![LinkedIn][3.2]][3].
+My name Mohamed Shaban and I'm a embedded syetem engineer. I'm from Egypt,  currently study ECE engineering in fyoum university. You can find me   on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)

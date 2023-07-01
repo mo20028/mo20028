@@ -22,16 +22,11 @@ My name Mohamed Shaban and I'm a embedded syetem engineer. I'm from Egypt,  curr
 
 ## &#x270d; Blog & Writing
 
- I also maintain a blog - you can find my articles on  [Medium](https://medium.com/@ms3055) and [DEV.to](https://dev.to/martinheinz).
+ I also maintain a blog - you can find my articles on  [Medium](https://medium.com/@ms3055) and [DEV.to](https://dev.to/mo20028).
 
 A sample of my recent articles:
 
-<!-- BLOG-POST-LIST:START -->
-- [Remote Interactive Debugging of Python Applications Running in Kubernetes](https://martinheinz.dev/blog/99)
-- [The Right Way to Run Shell Commands From Python](https://martinheinz.dev/blog/98)
-- [Real Multithreading is Coming to Python - Learn How You Can Use It Now](https://martinheinz.dev/blog/97)
-- [Python&#39;s Missing Batteries: Essential Libraries You&#39;re Missing Out On](https://martinheinz.dev/blog/96)
-<!-- BLOG-POST-LIST:END -->
+
 
 ## &#x1f4c8; GitHub Stats
 

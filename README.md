@@ -25,7 +25,7 @@ A sample of my recent articles:
 
 ## &#x1f4c8; GitHub Stats
 
-[![MOhamed](https://github-readme-stats.vercel.app/api?username=your-username)](https://github.com/mo20028)
+[![MOhamed](https://github-readme-stats.vercel.app/api?username=mo20028)](https://github.com/mo20028)
 
 <a href="https://github.com/mo20028/mo20028">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />

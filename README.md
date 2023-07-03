@@ -36,7 +36,7 @@ A sample of my recent articles:
 
 
 <!-- icons without padding -->
-[3.2]: <a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by riajulislam - Flaticon</a>
+[3.2]: https://github.com/mo20028/mo20028/blob/main/linkedin%20(1).png
  (LinkedIn icon without padding)
 
 

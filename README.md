@@ -36,7 +36,7 @@ A sample of my recent articles:
 
 
 <!-- icons without padding -->
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[3.2]: https://github.com/mo20028/mo20028/blob/main/61109.png (LinkedIn icon without padding)
 
 
 <!-- links to your social media accounts -->

@@ -41,27 +41,9 @@ I'm a communication and electronics student who is passionate about Embedded Sys
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 📊 Profile stats
-
-[![Mahmoud Karem 's github stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-Karem&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Mahmoud-Karem/github-readme-stats)
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-</p>
-<img src="https://imgur.com/rilHVxA.png"/>
-</p>
 
 
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
-
-My name Mohamed Shaban and I'm a embedded syetem engineer. I'm from Egypt,  currently study ECE engineering in fyoum university. You can find me   on [![LinkedIn][3.2]][3].
-
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Editor-visual_studio-informational?style=flat&logo=visualstudio&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C/C++-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
 
 
 

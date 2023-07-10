@@ -10,10 +10,9 @@
 
 I'm a communication and electronics student who is passionate about Embedded System.
 
-- 🎓 &nbsp; I’m currently a senior student at Al Fayoum Unversity.
-- 💼 
-- 🌱 &nbsp; Learning more about Microcontrollers , Embedded Sofware , Embedded Linux and AUTOSAR. 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mahmoud-karem-zamel) [Gmail](https://www.mahmoudkarem.me@gmail.com)
+- 🎓 &nbsp; I’m currently a senior student at Al Fayoum Unversity. 
+- 💼 &nbsp; Learning more about Microcontrollers , Embedded Sofware , Embedded Linux and AUTOSAR. 
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mo20028l) [Gmail](ms.2oo2elsayed@gmail.com)
 
 <h3>  &nbsp;🛠️ Languages and Tools:</h3>
 

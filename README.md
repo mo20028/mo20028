@@ -10,7 +10,7 @@
 
 I'm a communication and electronics student who is passionate about Embedded System.
 
-- 🎓 &nbsp; I’m currently a senior student at Al Fayoum Unversity. 
+- 🎓 &nbsp; I’m currently a senior student at Al Fayoum University. 
 - 💼 &nbsp; Learning more about Microcontrollers , Embedded Sofware , Embedded Linux and AUTOSAR. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mohamed-shaban-663863259) [Gmail](ms.2oo2elsayed@gmail.com)
 

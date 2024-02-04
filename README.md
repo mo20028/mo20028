@@ -30,9 +30,9 @@ I'm a communication and electronics student who is passionate about Embedded Sys
 - 🔧 &nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![STM32Cube](https://img.shields.io/badge/-STM32Cube-333333?style=flat&logo=stm32cube&logoColor=FFA500) 
-![STM32CubeMX](https://img.shields.io/badge/-STM32CubeMX-333333?style=flat&logo=stm32cubemx&logoColor=FFA500) 
-![Keil uVision 5](https://img.shields.io/badge/-Keil%20uVision%205-333333?style=flat&logo=keil&logoColor=FF0000) 
+![STM32Cube](https://img.shields.io/badge/-STM32Cube-333333?style=flat&logo=STMicroelectronics&logoColor=FFA500)
+![STM32CubeMX](https://img.shields.io/badge/-STM32CubeMX-333333?style=flat&logo=STMicroelectronics&logoColor=FFA500)
+![Keil uVision 5](https://img.shields.io/badge/-Keil%20uVision%205-333333?style=flat&logo=ARM&logoColor=FF0000)
 
 
   

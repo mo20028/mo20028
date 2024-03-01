@@ -12,7 +12,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-I'm a communication and electronics student who is passionate about Embedded System.
+I am a highly motivated 3rd year Electronics & Communication Engineering (ECE) student at Fayoum University. My passion lies in the field of embedded systems and embedded Linux. I am actively engaged in expanding my knowledge and practical skills through various avenues
 
 - 🎓 &nbsp; I’m currently a senior student at Al Fayoum University. 
 - 💼 &nbsp; Learning more about Microcontrollers , Embedded Sofware , Embedded Linux and AUTOSAR. 
